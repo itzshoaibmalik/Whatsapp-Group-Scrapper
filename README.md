@@ -55,8 +55,8 @@ Thanks.
 👤 **itzshoaibmalik**
 
 ## ❤️&nbsp; Community and Contributions
-<a href="https://github.com/situmorang-com/Whatsapp-Group-Contacts-Scraper/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=situmorang-com/Whatsapp-Group-Contacts-Scraper" />
+<a href="https://github.com/itzshoaibmalik/Whatsapp-Group-Scrapper/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=itzshoaibmalik/Whatsapp-Group-Scrapper" />
 </a>
 
 We are open for contributors. Whether you are helping us fixing bugs, proposing new feature, improving our documentation or spreading the word - **we would love to have you as part of the our community**.
